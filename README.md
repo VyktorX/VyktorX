@@ -9,6 +9,7 @@
 
 - <b>Simple Global Keyboard Event Listener</b>
   - [Python-based keylogger](https://github.com/VyktorX/SimpleKeyLogger)
+- <b>SIEM Lab (Coming soon)</b>
 
 <h2>:page_with_curl: Certifications</h2>
 

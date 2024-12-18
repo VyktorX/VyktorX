@@ -1,5 +1,34 @@
-## Hi there 👋
+<h1>Hi, I'm Maurizio, an inspiring <a href="https://www.linkedin.com/in/maurizio-conte-03a378292/">Cybersecurity Professional and IT enthusiast!</a></h1> This is my Github where I share my projects under the username VyktorX.
 
+<h2>👨‍💻 General IT Projects:</h2>
+
+- <b>SOHO Network</b>
+  - [Small Office/Home Office Network](https://github.com/VyktorX/SOHONetwork)
+
+<h2>📺 Cybersecurity Projects</h2>
+
+- <b>Simple Global Keyboard Event Listener</b>
+  - [Python-based keylogger](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>:page_with_curl: Certifications</h2>
+- [Google IT Support Professional Certificate]()
+- [CompTIA A+]()
+- [CompTIA Network+]()
+- [CompTIA Security+]()
+- [ISC2 Certified in Cybersecurity]()
+- [Axelos ITILv4 Foundation]()
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadako
 <!--
 **VyktorX/VyktorX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

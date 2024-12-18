@@ -8,7 +8,7 @@
 <h2>📺 Cybersecurity Projects</h2>
 
 - <b>Simple Global Keyboard Event Listener</b>
-  - [Python-based keylogger](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Python-based keylogger](https://github.com/VyktorX/SimpleKeyLogger)
 
 <h2>:page_with_curl: Certifications</h2>
 
